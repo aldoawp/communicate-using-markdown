@@ -14,3 +14,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portofolio
 - [ ] Introduce myself to the world
+
+## This will be the closing of this file.
+### Thanks you ;)
